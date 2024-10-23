@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel_Pc\\source\\repos\\APINotifyLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED0BB96-3D89-4D7F-BC02-CB947A436F4A}|APINotifyLink\\APINotifyLink.csproj|c:\\users\\daniel_pc\\source\\repos\\apinotifylink\\apinotifylink\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0BB96-3D89-4D7F-BC02-CB947A436F4A}|APINotifyLink\\APINotifyLink.csproj|solutionrelative:apinotifylink\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED0BB96-3D89-4D7F-BC02-CB947A436F4A}|APINotifyLink\\APINotifyLink.csproj|c:\\users\\daniel_pc\\source\\repos\\apinotifylink\\apinotifylink\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0BB96-3D89-4D7F-BC02-CB947A436F4A}|APINotifyLink\\APINotifyLink.csproj|solutionrelative:apinotifylink\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel_Pc\\source\\repos\\APINotifyLink\\APINotifyLink\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "APINotifyLink\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Daniel_Pc\\source\\repos\\APINotifyLink\\APINotifyLink\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "APINotifyLink\\Custom\\Utilidades.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:36:02.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel_Pc\\source\\repos\\APINotifyLink\\APINotifyLink\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APINotifyLink\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Daniel_Pc\\source\\repos\\APINotifyLink\\APINotifyLink\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APINotifyLink\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIA6wGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:28:37.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
